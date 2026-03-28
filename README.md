@@ -1,10 +1,5 @@
 # Calculator Web App 🧮
 
-A simple, clean, and responsive calculator built with HTML, CSS, and JavaScript.  
-This project demonstrates core front‑end skills including DOM manipulation, event handling, and UI design.
-
----
-
 ## 🚀 Features
 
 - Basic arithmetic operations (add, subtract, multiply, divide)
