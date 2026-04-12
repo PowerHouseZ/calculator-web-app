@@ -21,7 +21,7 @@
 ## 📦 Live Demo
 
 👉 **[Click here to try the calculator](https://powerhousez.github.io/calculator-web-app/)**  
-*(Replace with your GitHub Pages / Netlify / Vercel link if deployed.)*
+
 
 ---
 
